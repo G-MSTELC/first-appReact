@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nom": "Playstation 5",
+      "Description": "Console de jeux vidéo Sony avancée.",
+      "Prix": 1200,
+      "Catégorie": "Jeux vidéo",
+      "image": "/images/playstation5.jpg"
+    },
+    {
+      "id": 2,
+      "nom": "Nintendo Switch",
+      "Description": "Console de jeu vidéo hybride Nintendo.",
+      "Prix": 800,
+      "Catégorie": "Jeux vidéo",
+      "image": "/images/Nintendo.jpg"
+    },
+    {
+      "id": 3,
+      "nom": "Drone DJI",
+      "Description": "Drone aérien avancé pour photographie.",
+      "Prix": 1800,
+      "Catégorie": "Vidéo",
+      "image": "/images/Drone.jpg"
+    },
+    {
+      "id": 4,
+      "nom": "Samsung 77 4k",
+      "Description": "Smart TV",
+      "Prix": 5000,
+      "Catégorie": "TV",
+      "image": "/images/Tele.jpg"
+    },
+    {
+      "id": 5,
+      "nom": "Apple Watch",
+      "Description": "Montre intelligente",
+      "Prix": 140,
+      "Catégorie": "Watch",
+      "image": "/images/watch.jpg"
+    },
+    {
+      "id": 6,
+      "nom": "Playstation 4",
+      "Description": "Console de jeux vidéo Sony avancée.",
+      "Prix": 400,
+      "Catégorie": "Jeux vidéo",
+      "image": "/images/PS4-Console-wDS4.jpg"
+    }
+  ]
+}
